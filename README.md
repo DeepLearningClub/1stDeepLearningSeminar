@@ -9,9 +9,9 @@ Christophe Zimmer, Imaging and Modeling Unit
 * [code, ipython notebook](https://github.com/imodpasteur/mnist-deep-learning-tutorial/blob/master/KerasMNIST.ipynb)
 * [code, kaggle kernel](https://www.kaggle.com/weiouyang/d/weiouyang/test-dataset/keras-mnist)
 
-Note: If you download the ipython notebook code, you will need to install keras on your own comupter, and setup everything yourself.
+Note: If you download the ipython notebook code, you will need to install Keras on your own comupter, and setup everything yourself.
 
-For a quick test, you can use sign up on kaggle and fork the kaggle kernel, and use it without any local installation.
+For a quick test, you can sign up on kaggle and fork the kaggle kernel, and use it without any local installation.
 
 ## Analyzing CRISPR Screen Data using Neural Networks
 David Bikard, Synthetic Biology Group
@@ -25,7 +25,7 @@ Human Genetics and Cognitive Function Unit
 * [see slides](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks)
 
 ## Questions
-If you have any question, please discuss on the slack: https://deeplearningclub.slack.com
+If you have any question, please discuss on slack: https://deeplearningclub.slack.com
 
 
 
