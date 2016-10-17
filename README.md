@@ -5,7 +5,7 @@ Amphitheatre Jaques Monod.
 ## Introduction to Deep Learning
 Christophe Zimmer, Imaging and Modeling Unit
 
-* [download slides](./DeepLearningIntro-DLClub-Oct-11-2016-ChZ.pdf)
+* [slides (pdf file)](./DeepLearningIntro-DLClub-Oct-11-2016-ChZ.pdf)
 * [code, ipython notebook](https://github.com/imodpasteur/mnist-deep-learning-tutorial/blob/master/KerasMNIST.ipynb)
 * [code, kaggle kernel](https://www.kaggle.com/weiouyang/d/weiouyang/test-dataset/keras-mnist)
 
@@ -22,7 +22,7 @@ David Bikard, Synthetic Biology Group
 Guillaume Dumas,
 Human Genetics and Cognitive Function Unit
 
-* [see slides](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks)
+* [slides on slideshare](http://www.slideshare.net/gdumas/whole-brain-simulations-and-the-discrepancysimilarity-between-artificial-natural-neural-networks)
 
 ## Questions
 If you have any question, please discuss on slack: https://deeplearningclub.slack.com
