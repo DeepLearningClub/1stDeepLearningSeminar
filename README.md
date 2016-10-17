@@ -27,5 +27,8 @@ Human Genetics and Cognitive Function Unit
 ## Questions
 If you have any question, please discuss on slack: https://deeplearningclub.slack.com
 
+## License
+https://creativecommons.org/licenses/by/4.0/
+
 
 
